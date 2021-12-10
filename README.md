@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnonTFC
 - 👀 I’m interested in ... NFTS, Open Sources projects.
-- 🌱 I’m currently learning ...Solidify,Lua.
+- 🌱 I’m currently learning ...Solidity ,Lua.
 - 💞️ I’m looking to collaborate on ...anythign and evertything possible!
 - 📫 How to reach me ... directly through email anon@toofaded.com
 
